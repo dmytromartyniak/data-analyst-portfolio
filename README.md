@@ -24,3 +24,11 @@ Each project contains its goal, data notes, methodology, and links to the suppor
 - GitHub: https://github.com/your-github-dmytromartyniak
 - LinkedIn: https://www.linkedin.com/in/dmytro-martyniak-6b9379446
 
+## Visuals
+
+![Cohort retention overview](cohort_retention_overview.png)
+
+## SQL
+
+[View the SQL query](cohort_retention_analysis.sql)
+
