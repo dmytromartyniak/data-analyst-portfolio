@@ -67,4 +67,3 @@ projects/retention-cohort-analysis/
 └── README.md
 ```
 
-When ready, you can add a `sql/` folder for final queries and an `images/` folder for public-safe visuals.
