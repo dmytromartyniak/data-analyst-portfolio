@@ -37,9 +37,24 @@ The exact entry condition, activity definition, and segment rules should match t
 - Google Sheets report: add a view-only link here if the sheet can be shared.
 - Visual output: add an exported cohort table or screenshot only if the underlying data may be shown publicly.
 
-## Results and interpretation
+## Key findings
 
-Add only conclusions that are directly supported by the completed analysis. For example, describe a visible pattern in a particular cohort or segment only after checking the final table. Do not add invented percentages, business impact, or recommendations.
+- The analysis included 600 users: 358 organic sign-ups (59.7%) and 242 promo sign-ups (40.3%).
+- Organic cohorts were relatively stable, with approximately 50–70 new users per month.
+- Promo cohorts grew from 34 users in January to 47 users in June.
+- Organic retention was high and relatively stable: first-month retention averaged about 81% across cohorts, ranging from 73% to 87%. The January organic cohort retained 56% of users by month 5.
+- Promo cohorts showed lower retention. First-month retention averaged 56% and declined from 62% for the January cohort to 47% for the May cohort.
+- In month 3, retention was 32% for the January promo cohort and 35% for the February promo cohort, compared with 68–80% for organic cohorts.
+
+This comparison suggests that promo acquisition increased sign-ups, while organic cohorts retained a larger share of users. A possible next step would be to review campaign targeting and messaging alongside acquisition volume.
+
+## Visuals
+
+![Cohort retention overview](cohort_retention_overview.png)
+
+## SQL
+
+[View the SQL query](cohort_retention_analysis.sql)
 
 ## Data notes
 
