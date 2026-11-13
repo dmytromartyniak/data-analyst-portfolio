@@ -1,4 +1,4 @@
-# Your Name | Entry-Level Data Analyst
+# Dmytro Martyniak| Junior Data Analyst
 
 I am currently studying Data Analysis at GoIT. This repository documents my practical analytics projects and the analytical process behind them.
 
@@ -21,8 +21,8 @@ Each project contains its goal, data notes, methodology, and links to the suppor
 
 ## Contact
 
-- GitHub: [@your-github-username](https://github.com/your-github-username)
-- LinkedIn: add your profile link when ready
+- GitHub: https://github.com/your-github-dmytromartyniak
+- LinkedIn: https://www.linkedin.com/in/dmytro-martyniak-6b9379446
 
 ---
 
