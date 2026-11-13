@@ -24,6 +24,3 @@ Each project contains its goal, data notes, methodology, and links to the suppor
 - GitHub: https://github.com/your-github-dmytromartyniak
 - LinkedIn: https://www.linkedin.com/in/dmytro-martyniak-6b9379446
 
----
-
-*Replace `Your Name`, `your-github-username`, and the LinkedIn placeholder before publishing.*
